@@ -655,7 +655,7 @@ def onstart():
     cmd = 'mode 120,28'
     os.system(cmd)
     os.system(
-        "cls && title yurple unfriender by yurple <3")
+        "cls && title lol")
     menu()
 
 
